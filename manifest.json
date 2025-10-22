@@ -1,0 +1,76 @@
+{
+  "name": "Mockup Messenger - Dreharbeit",
+  "short_name": "MockMsg",
+  "description": "Filmreife WhatsApp-ähnliche Chat-App für Dreharbeiten und Theater",
+  "start_url": "/",
+  "scope": "/",
+  "display": "fullscreen",
+  "display_override": ["fullscreen", "standalone", "minimal-ui"],
+  "background_color": "#ECE5DD",
+  "theme_color": "#25D366",
+  "orientation": "portrait",
+  "prefer_related_applications": false,
+  "categories": ["entertainment", "utilities"],
+  "lang": "de-DE",
+  "dir": "ltr",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'%3E%3Crect fill='%2325D366' width='192' height='192' rx='32'/%3E%3Cpath fill='white' d='M96 40c-30.9 0-56 25.1-56 56 0 9.8 2.5 19 7 27l-7 26 27-7c8 4.5 17.2 7 27 7 30.9 0 56-25.1 56-56s-25.1-56-56-56zm32 75l-4-2c-2-1-12-6-14-7-2-1-3-1-4 1l-6 7c-1 1-2 1-4 0l-8-3c-7-3-13-5-18-13-1-2 0-3 1-4l3-3 2-2 1-2-1-2-1-2-5-12c-1-3-3-2-4-2h-3c-1 0-3 0-5 3-2 2-6 6-6 15s7 17 8 18c1 1 16 25 39 35 23 10 23 7 27 6 4-1 12-5 14-10 2-4 2-8 1-9-1-1-2-1-4-2z'/%3E%3C/svg%3E",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Crect fill='%2325D366' width='512' height='512' rx='86'/%3E%3Cpath fill='white' d='M256 107c-82.3 0-149 66.7-149 149 0 26.1 6.7 50.6 18.7 72l-18.7 69 72-18.7c21.4 12 45.9 18.7 72 18.7 82.3 0 149-66.7 149-149s-66.7-149-149-149zm85.3 200l-10.7-5.3c-5.3-2.7-32-16-37.3-18.7-5.3-2.7-8-2.7-10.7 2.7l-16 18.7c-2.7 2.7-5.3 2.7-10.7 0l-21.3-8c-18.7-8-34.7-13.3-48-34.7-2.7-5.3 0-8 2.7-10.7l8-8 5.3-5.3 2.7-5.3-2.7-5.3-2.7-5.3-13.3-32c-2.7-8-8-5.3-10.7-5.3h-8c-2.7 0-8 0-13.3 8-5.3 5.3-16 16-16 40s18.7 45.3 21.3 48c2.7 2.7 42.7 66.7 104 93.3 61.3 26.7 61.3 18.7 72 16 10.7-2.7 32-13.3 37.3-26.7 5.3-10.7 5.3-21.3 2.7-24-2.7-2.7-5.3-2.7-10.7-5.3z'/%3E%3C/svg%3E",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNk+M9QDwADhgGAWjR9awAAAABJRU5ErkJggg==",
+      "sizes": "72x72",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNk+M9QDwADhgGAWjR9awAAAABJRU5ErkJggg==",
+      "sizes": "96x96",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNk+M9QDwADhgGAWjR9awAAAABJRU5ErkJggg==",
+      "sizes": "128x128",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNk+M9QDwADhgGAWjR9awAAAABJRU5ErkJggg==",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNk+M9QDwADhgGAWjR9awAAAABJRU5ErkJggg==",
+      "sizes": "152x152",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='390' height='844' fill='%23ECE5DD'%3E%3Crect width='390' height='844' fill='%23ECE5DD'/%3E%3Crect y='0' width='390' height='60' fill='%23008069'/%3E%3Ctext x='20' y='40' fill='white' font-size='24' font-weight='bold'%3EWhatsApp%3C/text%3E%3C/svg%3E",
+      "sizes": "390x844",
+      "type": "image/svg+xml",
+      "form_factor": "narrow"
+    }
+  ],
+  "share_target": {
+    "action": "/share",
+    "method": "GET",
+    "params": {
+      "title": "title",
+      "text": "text",
+      "url": "url"
+    }
+  }
